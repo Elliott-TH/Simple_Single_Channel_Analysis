@@ -48,11 +48,11 @@ Upon running the code, a CSV file will be generated containing the following out
 |--------|-------------|-------|
 | Cell | Axial computational cell index | -- |
 | $z$ | Axial position along channel | m |
-| $T_m$ | Coolant bulk (mixture) temperature | K |
-| $T_{co}$ | Cladding outer surface temperature | K |
-| $T_{ci}$ | Cladding inner surface temperature | K |
-| $T_{fo}$ | Fuel outer surface temperature | K |
-| $T_{\text{max}}$ | Maximum fuel centerline temperature | K |
+| $T_m$ | Coolant bulk (mixture) temperature | C |
+| $T_{co}$ | Cladding outer surface temperature | C |
+| $T_{ci}$ | Cladding inner surface temperature | C |
+| $T_{fo}$ | Fuel outer surface temperature | C |
+| $T_{\text{max}}$ | Maximum fuel centerline temperature | C |
 | $x$ | Thermodynamic vapor quality | -- |
 | $x_e$ | Equilibrium vapor quality | -- |
 | CHFR | Critical Heat Flux Ratio | -- |
